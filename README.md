@@ -1,7 +1,7 @@
 # Car-Insurance-Analysis
 Exploration and analysis of  a car insurance company
 ## THE TASK
-### This dataset contains data of an insurance company provided by Onyx data.
+### This dataset contains data of customers of an insurance company provided by Onyx data.
 * marital_status: Gives information about the marital status of customers; married, single,divorced, seperated.
 * Car_use: Gives information about the purpose of the car if it is for commercial use or private.
 * gender: Gives information about the the gender of the customers male or female.
